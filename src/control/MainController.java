@@ -46,6 +46,7 @@ public class MainController {
      */
     public boolean insertQuestion(String q, String a, String b, String c, String d, char rightAnswer){
         //TODO Eine einzelne Frage der DB hinzufügen. Ohne Fragen, kein Spiel :)
+
         return false;
     }
 
